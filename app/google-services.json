@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "545552399609",
+    "project_id": "whatsappcompose-3d129",
+    "firebase_url": "https://whatsappcompose-3d129-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "whatsappcompose-3d129.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545552399609:android:fb0fa6125747fb737c7628",
+        "android_client_info": {
+          "package_name": "com.ankit.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXAjhiLLyDhyy_eDUyiKOQwjXwvuMjxNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
